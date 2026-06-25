@@ -1,0 +1,19 @@
+{
+  "name": "automation-starter-nodejs",
+  "version": "1.0.0",
+  "description": "Portfolio example for a small Node.js automation that cleans lead CSV data and generates a Markdown report.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "automation",
+    "nodejs",
+    "csv",
+    "data-cleaning",
+    "reporting",
+    "operations",
+    "ulisses-labs"
+  ],
+  "license": "MIT"
+}
