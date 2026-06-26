@@ -35,6 +35,12 @@ npm start
 
 The script reads `examples/input/leads.csv`, removes duplicated leads by e-mail, ignores records with invalid e-mails, counts leads by status and source, and writes the output files.
 
+## Test
+
+```bash
+npm test
+```
+
 ## Generated Files
 
 - `examples/output/clean-leads.csv`: clean CSV with valid, unique leads.
